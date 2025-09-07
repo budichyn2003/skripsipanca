@@ -166,7 +166,7 @@ dimana:
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/username/skripsipanca.git
+git clone https://github.com/budichyn2003/skripsipanca.git
 cd skripsipanca
 ```
 
@@ -348,4 +348,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **📧 Contact**: [email@domain.com]  
-**🔗 GitHub**: [https://github.com/username/skripsipanca](https://github.com/username/skripsipanca)
+**🔗 GitHub**: [https://github.com/budichyn2003/skripsipanca](https://github.com/budichyn2003/skripsipanca)
