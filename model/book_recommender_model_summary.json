@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "timestamp": "20250907_101527",
+    "total_books": 97,
+    "tfidf_features": 1146,
+    "similarity_matrix_shape": [
+      97,
+      97
+    ]
+  },
+  "tfidf_analysis": {
+    "matrix_shape": [
+      97,
+      1146
+    ],
+    "vocabulary_size": 1146,
+    "sparsity_percentage": 98.2,
+    "top_features": [
+      {
+        "rank": 1,
+        "feature": "accounting",
+        "avg_score": 0.055745
+      },
+      {
+        "rank": 2,
+        "feature": "akuntansi accountingakuntansi",
+        "avg_score": 0.048598
+      },
+      {
+        "rank": 3,
+        "feature": "buku",
+        "avg_score": 0.044091
+      },
+      {
+        "rank": 4,
+        "feature": "dasar",
+        "avg_score": 0.034889
+      },
+      {
+        "rank": 5,
+        "feature": "teori",
+        "avg_score": 0.029905
+      },
+      {
+        "rank": 6,
+        "feature": "bahas",
+        "avg_score": 0.028208
+      },
+      {
+        "rank": 7,
+        "feature": "sistem",
+        "avg_score": 0.028155
+      },
+      {
+        "rank": 8,
+        "feature": "uang",
+        "avg_score": 0.026493
+      },
+      {
+        "rank": 9,
+        "feature": "teori akuntansi",
+        "avg_score": 0.025895
+      },
+      {
+        "rank": 10,
+        "feature": "dasar akuntansi",
+        "avg_score": 0.021588
+      },
+      {
+        "rank": 11,
+        "feature": "accounting buku",
+        "avg_score": 0.02133
+      },
+      {
+        "rank": 12,
+        "feature": "lanjut",
+        "avg_score": 0.020112
+      },
+      {
+        "rank": 13,
+        "feature": "accounting accountingakuntansi",
+        "avg_score": 0.020085
+      },
+      {
+        "rank": 14,
+        "feature": "internasional",
+        "avg_score": 0.019086
+      },
+      {
+        "rank": 15,
+        "feature": "prinsip",
+        "avg_score": 0.019067
+      }
+    ]
+  },
+  "similarity_statistics": {
+    "mean_off_diagonal": 0.025979,
+    "median_off_diagonal": 0.009248,
+    "std_off_diagonal": 0.048347,
+    "min_off_diagonal": 0.0,
+    "max_off_diagonal": 0.591629,
+    "percentiles": {
+      "p25": 0.003346,
+      "p50": 0.009248,
+      "p75": 0.028595,
+      "p90": 0.067022,
+      "p95": 0.108348,
+      "p99": 0.226898
+    }
+  },
+  "book_index_mapping": {
+    "total_unique_titles": 97,
+    "sample_mappings": {
+      "accounting & auditing research": 0,
+      "priciples of accounting": 1,
+      "fundamental financial accounting concepts": 2,
+      "accounting": 3,
+      "riset akuntansi": 4,
+      "standar pelaporan keuangan internasional    pedoman praktis": 5,
+      "advanced accounting": 6,
+      "teori akunting": 7,
+      "principles of accounting for non-accounting professionals, 3rd ed.": 8,
+      "teori akuntansi": 9
+    }
+  },
+  "dataset_overview": {
+    "categories": [
+      [
+        "Accounting/Akuntansi",
+        97
+      ]
+    ],
+    "languages": [
+      [
+        "indonesia",
+        53
+      ],
+      [
+        "inggris",
+        36
+      ],
+      [
+        "ingggris",
+        4
+      ],
+      [
+        "english",
+        3
+      ],
+      [
+        "Indonesia",
+        1
+      ]
+    ],
+    "top_subjects": [
+      [
+        "akuntansi",
+        60
+      ],
+      [
+        "accounting",
+        13
+      ],
+      [
+        "agribisnis ",
+        3
+      ],
+      [
+        "aeronautical anual",
+        1
+      ],
+      [
+        "komputer akuntansi",
+        1
+      ],
+      [
+        "fracture mechanics",
+        1
+      ],
+      [
+        "akuntansi ujian soal dsb",
+        1
+      ],
+      [
+        "profesi akuntansi",
+        1
+      ],
+      [
+        "keuanganaakuntansi",
+        1
+      ],
+      [
+        "ansi computer angineers ",
+        1
+      ]
+    ]
+  },
+  "sample_recommendations": {
+    "Accounting": [
+      {
+        "judul": "Fundamental accounting principles, ",
+        "similarity_score": 0.1972,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "Accounting ",
+        "similarity_score": 0.1427,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "International accounting ",
+        "similarity_score": 0.1299,
+        "kategori": "Accounting/Akuntansi"
+      }
+    ],
+    "Advanced accounting": [
+      {
+        "judul": "Advanced accounting ",
+        "similarity_score": 0.1789,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "Introduction to financial accounting a user perspective",
+        "similarity_score": 0.176,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "Fundamental financial accounting concepts  ",
+        "similarity_score": 0.1331,
+        "kategori": "Accounting/Akuntansi"
+      }
+    ],
+    "Riset akuntansi": [
+      {
+        "judul": "Sistem akuntansi ",
+        "similarity_score": 0.0856,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "Akuntansi  ",
+        "similarity_score": 0.0747,
+        "kategori": "Accounting/Akuntansi"
+      },
+      {
+        "judul": "Sistem akuntansi    penyusunan prosedur dan metode  ",
+        "similarity_score": 0.0695,
+        "kategori": "Accounting/Akuntansi"
+      }
+    ]
+  }
+}
